@@ -1,0 +1,15 @@
+pom\EmailSection.class
+genericLibrary\ReadingDataPropertyFile.class
+pom\ContactUsText.class
+pom\itemDetails.class
+pom\ContactNumber.class
+genericLibrary\BaseClass.class
+pom\MenuItems.class
+pom\OrderPage.class
+genericLibrary\Screenshot.class
+pom\OrdersDropdown.class
+pom\HomePage.class
+pom\ReservationPage.class
+genericLibrary\AutoConstant.class
+genericLibrary\WebDriverUtilities.class
+pom\CopyrightFooter.class

@@ -1,0 +1,10 @@
+scripts\SelectDeliveryAreaTest.class
+scripts\CheckingMenuItems.class
+scripts\ItemDetails.class
+scripts\CheckEmailDisplayed.class
+scripts\CheckContactUsTxt.class
+scripts\CheckingOrdersDrpDwn.class
+scripts\CheckPhoneNumberDisplayed.class
+scripts\CheckCopyrightFooter.class
+scripts\CheckDatePicker.class
+scripts\CheckOrderOnlineNow.class
